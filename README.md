@@ -1,14 +1,17 @@
-# Eden Space
-### <a href="#1">Eden是谁</a>
-### <a href="#2">我也想弄一个自己的主页</a>
-### <a href="#3">Github竟然有wiki</a>
+# Good Good Study, Day Day Up
+### <a href="#1">持续充电中</a>
+### <a href="#2">撸起袖子干</a>
+### <a href="#3">Todo</a>
+### <a href="#4">Update</a>
 
-## <a name="1">Eden是谁</a>
-不认识
+## <a name="1">持续充电中</a>
+K8S入门课程：网易云课堂
 
-## <a name="2">我也想弄一个自己的主页</a>
-想要自己的github主页吗？[我也试试](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)
+## <a name="2">撸起袖子干</a>
+docker入门
+k8s入门
+helm入门
 
 
-## <a name="3">Github竟然有wiki</a>
-[直达WIKI](https://github.com/velkoz1108/velkoz1108.github.io/wiki)
+#### <a name="4">README</a>
+[更新入口](https://github.com/velkoz1108/velkoz1108.github.io/wiki)
